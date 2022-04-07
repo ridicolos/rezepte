@@ -1,5 +1,7 @@
 # Wiener Schnitzel mit Kartoffeln
 
+<https://eatsmarter.de/rezepte/wiener-schnitzel-mit-kartoffeln>
+
 ## Zutaten
 
 - 4 Kalbschnitzel
