@@ -1,3 +1,3 @@
 # Rezepte
 
-- [Wiener Schnitzel mit Kartoffeln](wieder_schnitzel.md)
+- [Wiener Schnitzel mit Kartoffeln](wiener_schnitzel.md)
